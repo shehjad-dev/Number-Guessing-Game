@@ -4,6 +4,6 @@ Just a simple game that makes the user guess any number between 1 & 10. The are 
 - Eat 
 - Sleep 
 - Guess
-- Repeat
+- REPEAT
 
 
